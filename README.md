@@ -6,4 +6,4 @@ I'm COCO, I'm an independent game developer.
 
 A game nerd and a community manager of [Colyseus](https://www.colyseus.io/).
 
-A translator and a knowledge consultant of [lucid sight](https://www.lucidsight.com/).
+A translator and a knowledge consultant of [Lucid Sight](https://www.lucidsight.com/).
