@@ -2,8 +2,14 @@
 
 [![COCO's Github Stats](https://github-readme-stats.vercel.app/api?username=cocosgames&count_private=true&show_icons=true&theme=vue)](https://github.com/CocosGames/#choose-pinned-repositories)
 
-I'm COCO, I'm an independent game developer.
+I'm COCO, I'm
 
-A game nerd and a community manager of [Colyseus](https://www.colyseus.io/).
+A game nerd and a community moderator of [Colyseus](https://www.colyseus.io/).
 
 A translator and a knowledge consultant of [Lucid Sight](https://www.lucidsight.com/).
+
+A technology evangelist and a server manager of [Defold Foundation](https://defold.com/).
+
+A cocos developer and a seller of [Envato Market](https://codecanyon.net/).
+
+^_^
