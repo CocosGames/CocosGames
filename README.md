@@ -4,12 +4,12 @@
 
 I'm COCO, I'm
 
-A game nerd and a community moderator of [Colyseus](https://www.colyseus.io/).
+A game nerd and a community moderator of [Colyseus](https://www.colyseus.io/);
 
-A translator and a knowledge consultant of [Lucid Sight](https://www.lucidsight.com/).
+A translator and a knowledge consultant of [Lucid Sight](https://www.lucidsight.com/);
 
-A technology evangelist and a server manager of [Defold Foundation](https://defold.com/).
+A technology evangelist and a server manager of [Defold Foundation](https://defold.com/);
 
-A cocos developer and a seller of [Envato Market](https://codecanyon.net/).
+A cocos developer and a publisher of [Envato Market](https://codecanyon.net/).
 
-^_^
+Nice to meet you!
