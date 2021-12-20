@@ -10,6 +10,6 @@ A translator and a knowledge consultant of [Lucid Sight](https://www.lucidsight.
 
 // A technology evangelist and a server manager of [Defold Foundation](https://defold.com/);
 
-A cocos developer and a publisher of [Envato Market](https://codecanyon.net/).
+// A cocos developer and a publisher of [Envato Market](https://codecanyon.net/).
 
 Nice to meet you!
