@@ -5,6 +5,6 @@
 I'm COCO, nice to meet you!
 
 
-🔗https://cocosgames.com
+🔗 https://www.cocosgames.com
 
-▶https://rb.gy/iwpgfi
+▶ https://www.youtube.com/channel/UCrcBp6Zuwe2XhO6nqDTkTGg/
