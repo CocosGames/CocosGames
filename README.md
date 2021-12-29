@@ -7,4 +7,4 @@ I'm COCO, nice to meet you!
 
 🔗[https://www.cocosgames.com](https://www.cocosgames.com)
 
-▶[https://www.youtube.com/channel/UCrcBp6Zuwe2XhO6nqDTkTGg](https://www.youtube.com/channel/UCrcBp6Zuwe2XhO6nqDTkTGg)
+▶[https://youtube.com/channel/UCrcBp6Zuwe2XhO6nqDTkTGg](https://www.youtube.com/channel/UCrcBp6Zuwe2XhO6nqDTkTGg)
