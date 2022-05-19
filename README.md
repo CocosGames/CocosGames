@@ -11,6 +11,5 @@ COCOSGAMES
 💖 [Colyseus](https://discuss.colyseus.io/category/7/%E4%B8%AD%E6%96%87)
 💖 [Colyseus Arena](https://console.colyseus.io/register)
 💖 [Defold](https://defold.com)
-💖 [Cocos Creator](https://cocos.com)
-💖
+💖 
 </div>
