@@ -4,7 +4,7 @@ COCOSGAMES
   
 <div align="center">
   
-[![COCO's Github Stats](https://github-readme-stats.vercel.app/api?username=cocosgames&count_private=true&show_icons=true&theme=dark&PAT_1=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)](https://github.com/CocosGames/#choose-pinned-repositories)
+[![COCO's Github Stats](https://github-readme-stats.vercel.app/api?username=cocosgames&count_private=true&show_icons=true&theme=dark&PAT_1=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)](https://github.com/CocosGames/#choose-pinned-repositories)
 
 ⭐ FUN IS WORTH ⭐
 
